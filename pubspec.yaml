@@ -4,3 +4,4 @@ environment:
   sdk: ^3.10.1
 workspace:
   - packages/iceberg_dart
+  - packages/parquet

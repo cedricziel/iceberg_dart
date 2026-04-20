@@ -1,0 +1,9 @@
+export 'src/error.dart';
+export 'src/input.dart';
+export 'src/metadata.dart';
+export 'src/options.dart';
+export 'src/output.dart';
+export 'src/parquet_api.dart';
+export 'src/reader.dart';
+export 'src/schema.dart';
+export 'src/writer.dart';
